@@ -9,7 +9,7 @@
       ec2_vpc_net:
         name: "{{vpc_name}}"
         cidr_block: "{{vpccider}}"
-        region: "{{reigon}}"
+        region: "{{region}}"
         dns_support: yes
         dns_hostname: yes
         tenancy: default
