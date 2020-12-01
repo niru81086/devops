@@ -8,7 +8,7 @@
   - name: create vpc
     ec2_vpc_net:
       name: "{{vpc_name}}"
-      cider_block: "{{vpcCIDR}}"
+      cider_block: "{{vpccider}}"
       region: "{{reigon}}"
       dns_support: yes
       dns_hostname: yes

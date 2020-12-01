@@ -1,15 +1,15 @@
 vpc_name: "vprofile-vpc"
 
 #vpc_range
-vpcCIDR: '172.20.0.0/16'
+vpccider: '172.20.0.0/16'
 
 #subnet
 PubSub1Cider: 172.20.1.0/24
-PubSub1Cider: 172.20.2.0/24
-PubSub1Cider: 172.20.3.0/24
-PrivSub1Cider: 172.20.4.0/24
-PrivSub1Cider: 172.20.5.0/24
-PrivSub1Cider: 172.20.6.0/24
+PubSub2Cider: 172.20.2.0/24
+PubSub3Cider: 172.20.3.0/24
+PrivSub4Cider: 172.20.4.0/24
+PrivSub5Cider: 172.20.5.0/24
+PrivSub6Cider: 172.20.6.0/24
 
 #region
 reigon: "us-east-2"
